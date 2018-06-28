@@ -18,4 +18,9 @@ flash drive in case that importing these files from GitHub does not work right.
 
 ![](images/database_application.PNG)
 
-In this screenshot, you will see the basic design and introduction of this application.
+In these screenshots, you will see the basic design and introduction of this application.
+
+
+![](images/database_application1.PNG)
+
+
