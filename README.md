@@ -15,3 +15,7 @@ This project was created in Visual Studio using C# and the .NET framework and th
 For a live demonstration of this application, I would request of you that I bring a physical representation of this application on my 
 flash drive in case that importing these files from GitHub does not work right.
 
+
+![](images/database_application.PNG)
+
+In this screenshot, you will see the basic design and introduction of this application.
