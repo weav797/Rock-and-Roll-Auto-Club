@@ -63,7 +63,7 @@ rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 	tblMembers (one to many) tblAutos
 
 <strong>Reports:</strong><br>
-	<div style="text-indent: 25%;">rptMembers - a list of existing members</div><br>
+	rptMembers - a list of existing members<br>
 	rptAuto - a list of existing autos<br>
 	rptIndvAutos1 - a more detailed list of autos focusing on individual autos<br>
 	
