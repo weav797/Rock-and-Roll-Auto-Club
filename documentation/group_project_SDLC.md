@@ -20,7 +20,7 @@ rptMembers - a list of existing members
 rptAuto - a list of existing autos
 rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 
-<strong>DESIGN PHASE:</strong> Relational Database Design Process Database Structure<br>
+<strong>DESIGN PHASE:</strong><br>Relational Database Design Process Database Structure<br>
 
 
 <table>
