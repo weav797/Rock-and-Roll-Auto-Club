@@ -80,18 +80,18 @@ Table Name
 </table>
 
 
-Relationships:
+<strong>Relationships:</strong><br>
 	tblMembers (one to many) tblAutos
 
-Reports:
-	rptMembers - a list of existing members
-	rptAuto - a list of existing autos
-	rptIndvAutos1 - a more detailed list of autos focusing on individual autos
+<strong>Reports:</strong><br>
+	<div style="text-indent: 25%;">rptMembers - a list of existing members</div><br>
+	rptAuto - a list of existing autos<br>
+	rptIndvAutos1 - a more detailed list of autos focusing on individual autos<br>
 	
-Queries:
-	qryBartlettMembers – Shows only members location within Bartlett
-	qryCarsAfter1960 – Shows only cars after the year 1960
-	qryCarsBefore1960 – Shows only cars dated before 1960
-	qryMembersSpecialty – Shows only members with a specialty 
-	qryModifications – Shows only autos with modifications
+<strong>Queries:</strong><br>
+	qryBartlettMembers – Shows only members location within Bartlett<br>
+	qryCarsAfter1960 – Shows only cars after the year 1960<br>
+	qryCarsBefore1960 – Shows only cars dated before 1960<br>
+	qryMembersSpecialty – Shows only members with a specialty <br>
+	qryModifications – Shows only autos with modifications<br>
 
