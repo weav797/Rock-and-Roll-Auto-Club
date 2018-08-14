@@ -30,16 +30,46 @@ Table Name
 			LastName (Short Text, 50)
 			FirstName (Short Text, 50)
 			Phone (Short Text, 50, with Input Mask)
-Address (Short Text, 50)
+			Address (Short Text, 50)
 			City (Short Text, 50)
 			State (Short Text, 50)
 			Zip (Short Text, 50)
 			Specialty (Short Text, 50)
 	
-tblAutos
+	tblAutos
 			AutoID (Primary Key, Short Text, 50)
 			Year (Number [for comparisions], long integer)
 			Brand (Short Text, 50)
-			Model	(Short Text, 50)
+			Model (Short Text, 50)
 			Engine (Short Text, 50)
 			Body (Short Text, 50)
+
+
+<table>
+	<tr>
+		<th>Table Name</th>
+		<th>Field Name</th>
+	</tr>
+	<tr>
+		<td>tblMembers</td>
+		<td>MemberID (Primary Key, Short Text, 50)
+			LastName (Short Text, 50)
+			FirstName (Short Text, 50)
+			Phone (Short Text, 50, with Input Mask)
+			Address (Short Text, 50)
+			City (Short Text, 50)
+			State (Short Text, 50)
+			Zip (Short Text, 50)
+			Specialty (Short Text, 50)</td>
+	</tr>
+	<tr>
+		<td>tblAutos</td>
+		<td>AutoID (Primary Key, Short Text, 50)
+			Year (Number [for comparisions], long integer)
+			Brand (Short Text, 50)
+			Model (Short Text, 50)
+			Engine (Short Text, 50)
+			Body (Short Text, 50)
+		</td>
+	</tr>
+</table>
