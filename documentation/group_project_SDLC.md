@@ -3,7 +3,7 @@ Abinet Deresebachew<br>
 Paul Orion Weaver<br>
 Juan Bell<br>
 Ahmed Alshehir<br>
-Nathaniel Baker
+Nathaniel Baker<br>
 
 <div style="text-decoration: underline;"><strong>Rock and Roll Rides Auto Club</strong></div>
 
@@ -22,28 +22,6 @@ rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 
 <div style="text-decoration: underline;"><strong>DESIGN PHASE:</strong></div> Relational Database Design Process Database Structure
 
-Table Name
-                                        Field Name(Data Type, Field Size):
-
-	tblMembers
-			MemberID (Primary Key, Short Text, 50)
-			LastName (Short Text, 50)
-			FirstName (Short Text, 50)
-			Phone (Short Text, 50, with Input Mask)
-			Address (Short Text, 50)
-			City (Short Text, 50)
-			State (Short Text, 50)
-			Zip (Short Text, 50)
-			Specialty (Short Text, 50)
-	
-	tblAutos
-			AutoID (Primary Key, Short Text, 50)
-			Year (Number [for comparisions], long integer)
-			Brand (Short Text, 50)
-			Model (Short Text, 50)
-			Engine (Short Text, 50)
-			Body (Short Text, 50)
-
 
 <table>
 	<tr>
@@ -60,7 +38,8 @@ Table Name
 			City (Short Text, 50)<br>
 			State (Short Text, 50)<br>
 			Zip (Short Text, 50)<br>
-			Specialty (Short Text, 50)<br></td>
+			Specialty (Short Text, 50)<br>
+		</td>
 	</tr>
 	<tr>
 		<td>tblAutos</td>
@@ -95,3 +74,4 @@ Table Name
 	qryMembersSpecialty – Shows only members with a specialty <br>
 	qryModifications – Shows only autos with modifications<br>
 
+<strong>Prototype:</strong><br>
