@@ -48,28 +48,28 @@ Table Name
 <table>
 	<tr>
 		<th>Table Name</th>
-		<th>Field Name</th>
+		<th>Field Name (Data type, Field Size)</th>
 	</tr>
 	<tr>
 		<td>tblMembers</td>
-		<td>MemberID (Primary Key, Short Text, 50)
-			LastName (Short Text, 50)
-			FirstName (Short Text, 50)
-			Phone (Short Text, 50, with Input Mask)
-			Address (Short Text, 50)
-			City (Short Text, 50)
-			State (Short Text, 50)
-			Zip (Short Text, 50)
-			Specialty (Short Text, 50)</td>
+		<td>MemberID (Primary Key, Short Text, 50)<br>
+			LastName (Short Text, 50)<br>
+			FirstName (Short Text, 50)<br>
+			Phone (Short Text, 50, with Input Mask)<br>
+			Address (Short Text, 50)<br>
+			City (Short Text, 50)<br>
+			State (Short Text, 50)<br>
+			Zip (Short Text, 50)<br>
+			Specialty (Short Text, 50)<br></td>
 	</tr>
 	<tr>
 		<td>tblAutos</td>
-		<td>AutoID (Primary Key, Short Text, 50)
-			Year (Number [for comparisions], long integer)
-			Brand (Short Text, 50)
-			Model (Short Text, 50)
-			Engine (Short Text, 50)
-			Body (Short Text, 50)
+		<td>AutoID (Primary Key, Short Text, 50)<br>
+			Year (Number [for comparisions], long integer)<br>
+			Brand (Short Text, 50)<br>
+			Model (Short Text, 50)<br>
+			Engine (Short Text, 50)<br>
+			Body (Short Text, 50)<br>
 		</td>
 	</tr>
 </table>
