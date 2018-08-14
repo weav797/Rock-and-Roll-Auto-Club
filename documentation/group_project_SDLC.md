@@ -74,5 +74,5 @@ rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 	qryMembersSpecialty – Shows only members with a specialty <br>
 	qryModifications – Shows only autos with modifications<br>
 
-<strong>Prototype:</strong><br>
+<strong>Prototype:</strong><br><br>
 ![](images/prototype.png)
