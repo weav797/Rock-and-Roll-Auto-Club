@@ -76,3 +76,6 @@ rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 
 <strong>Prototype:</strong><br><br>
 ![](images/prototype.png)
+
+<strong>Implementation:</strong><br><br>
+![](images/implementation.png)
