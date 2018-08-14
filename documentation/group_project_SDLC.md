@@ -75,3 +75,4 @@ rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 	qryModifications – Shows only autos with modifications<br>
 
 <strong>Prototype:</strong><br>
+![](images/prototype.png)
