@@ -5,7 +5,7 @@ Juan Bell<br>
 Ahmed Alshehir<br>
 Nathaniel Baker
 
-<strong>Rock and Roll Rides Auto Club</strong>
+<div style="text-align: center; text-decoration: underline;"><strong>Rock and Roll Rides Auto Club</strong></div>
 
 <strong>NEED</strong>: The auto club needs a database to manage members and their vehicles. Should be user friendly, and provide all information needed to add, edit, or look up individual members and autos. Each member can have one or more vehicles, and a vehicle can be owned by just one member.
 
