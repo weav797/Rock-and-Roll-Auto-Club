@@ -9,18 +9,18 @@ Nathaniel Baker
 
 <strong>NEED</strong>: The auto club needs a database to manage members and their vehicles. Should be user friendly, and provide all information needed to add, edit, or look up individual members and autos. Each member can have one or more vehicles, and a vehicle can be owned by just one member.
 
-(SDLC Process)
+<strong>(SDLC Process)</strong>
 
-ANALYSIS PHASE: User Requirements (Forms, Reports, & Perceptions)
-Input Forms
+<div style="text-decoration: underline;"><strong>ANALYSIS PHASE</strong></div>: User Requirements (Forms, Reports, & Perceptions)
+<strong>Input Forms</strong>
 frmMemberInfo – to add, edit or look up members
 frmMembersSubform – to add, edit, or lookup up autos
-Output Reports
+<strong>Output Reports</strong>
 rptMembers - a list of existing members
 rptAuto - a list of existing autos
 rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 
-DESIGN PHASE: Relational Database Design Process Database Structure
+<div style="text-decoration: underline;"><strong>DESIGN PHASE</strong></div>: Relational Database Design Process Database Structure
 
 Table Name
                                         Field Name(Data Type, Field Size):
