@@ -11,7 +11,7 @@ Nathaniel Baker
 
 <strong>(SDLC Process)</strong>
 
-<div style="text-decoration: underline;"><strong>ANALYSIS PHASE</strong></div>: User Requirements (Forms, Reports, & Perceptions)
+<div style="text-decoration: underline;"><strong>ANALYSIS PHASE:</strong></div> User Requirements (Forms, Reports, & Perceptions)
 <strong>Input Forms</strong>
 frmMemberInfo – to add, edit or look up members
 frmMembersSubform – to add, edit, or lookup up autos
@@ -20,7 +20,7 @@ rptMembers - a list of existing members
 rptAuto - a list of existing autos
 rptIndvAutos1 - a more detailed list of autos focusing on individual autos
 
-<div style="text-decoration: underline;"><strong>DESIGN PHASE</strong></div>: Relational Database Design Process Database Structure
+<div style="text-decoration: underline;"><strong>DESIGN PHASE:</strong></div> Relational Database Design Process Database Structure
 
 Table Name
                                         Field Name(Data Type, Field Size):
