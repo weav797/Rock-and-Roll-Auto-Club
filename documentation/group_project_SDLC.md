@@ -70,6 +70,28 @@ Table Name
 			Model (Short Text, 50)<br>
 			Engine (Short Text, 50)<br>
 			Body (Short Text, 50)<br>
+			Color (Short Text, 50)<br>
+			Condition (Short Text, 50)<br>
+			Modifications (Short Text, 50)<br>
+			Pictures (Attachment)<br>
+			MemberID (Short Text, 50)<br>
 		</td>
 	</tr>
 </table>
+
+
+Relationships:
+	tblMembers (one to many) tblAutos
+
+Reports:
+	rptMembers - a list of existing members
+	rptAuto - a list of existing autos
+	rptIndvAutos1 - a more detailed list of autos focusing on individual autos
+	
+Queries:
+	qryBartlettMembers – Shows only members location within Bartlett
+	qryCarsAfter1960 – Shows only cars after the year 1960
+	qryCarsBefore1960 – Shows only cars dated before 1960
+	qryMembersSpecialty – Shows only members with a specialty 
+	qryModifications – Shows only autos with modifications
+
