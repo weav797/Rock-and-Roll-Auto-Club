@@ -12,8 +12,7 @@ No customers or any other potential users are allowed to see it.
 My contribution was to help with the potential design and any debugging needed should this program not work correctly.
 My partner, Caitlyn Nelson, did most of the heavy lifting by creating most of the logic for the program. 
 This project was created in Visual Studio using C# and the .NET framework and the database file was imported from Access.
-For a live demonstration of this application, I would request of you that I bring a physical representation of this application on my 
-flash drive in case that importing these files from GitHub does not work right.
+
 
 
 ![](images/database_application.PNG)
