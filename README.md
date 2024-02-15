@@ -1,7 +1,7 @@
 # Rock-and-Roll-Auto-Club
 
 In this file, you will see a project I took part in with a small team to help an auto club organize its data..
-This program stores information ifor an Auto club called the Rock and Roll auto club. 
+This program stores information for an Auto club called the Rock and Roll auto club. 
 Users were designed to be seen only by employees of this club and possibly some upper managament. 
 The users that can see it have two main tables: 
 One for the auto club member's information,
